@@ -7,3 +7,4 @@
 # On branch hello
 
 - Mode 1
+- Mode 2
